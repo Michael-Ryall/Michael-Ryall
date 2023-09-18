@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michael-Ryall
-- 👀 I’m interested in all things User Research from the pre-conceot stage of product development to the ongoing development of mature products.
+- 👀 I’m interested in all things User Research from the pre-concept stage of product development to the ongoing development of mature products.
 - 🌱 I’m currently learning SQL in my spare time to further increase my data skills.
 
 <!---
